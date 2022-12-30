@@ -1,0 +1,133 @@
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\Project SMS.exe.config
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\Project SMS.exe
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\Project SMS.pdb
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project SMS.csproj.AssemblyReference.cache
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.Homedash.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.Properties.Resources.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.Student_Dashboard.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.Teacherdash.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project SMS.csproj.GenerateResource.cache
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project SMS.csproj.CoreCompileInputs.cache
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project SMS.csproj.CopyComplete
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project SMS.exe
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project SMS.pdb
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.CreateAccount.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.Acctud.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.RegisterStudents.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.Updatestudents.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.Addattendance.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.Addmarks.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.viewextraac.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.Viewprofile.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.viewreports.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.staffdashboard.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.notices.resources
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\MySql.Data.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\Google.Protobuf.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\Zstandard.Net.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\BouncyCastle.Crypto.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\Ubiety.Dns.Core.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\System.Memory.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\System.Buffers.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\K4os.Compression.LZ4.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\K4os.Hash.xxHash.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\System.Numerics.Vectors.dll
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\bin\Debug\MySql.Data.xml
+D:\2nd Year Second Semester\Enterprise Systems\Project\Project SMS\Project SMS\obj\Debug\Project_SMS.GUI.viewnotice.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project SMS.csproj.AssemblyReference.cache
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.Addmarks.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.staffdashboard.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.Homedash.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.GUI.viewnotice.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.Properties.Resources.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.notices.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.RegisterStudents.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.Student_Dashboard.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.Updatestudents.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.Viewprofile.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.viewreports.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.TeacherDash.resources
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project SMS.csproj.GenerateResource.cache
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project SMS.csproj.CoreCompileInputs.cache
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\Project SMS.exe.config
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\Project SMS.exe
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\Project SMS.pdb
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\MySql.Data.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\Google.Protobuf.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\Zstandard.Net.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\System.Memory.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\System.Buffers.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\bin\Debug\MySql.Data.xml
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project SMS.csproj.CopyComplete
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project SMS.exe
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project SMS.pdb
+C:\Users\Kreshan Jayamannna\Desktop\Project SMS\Project SMS\obj\Debug\Project_SMS.GUI.CreateAccount.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\Project SMS.exe.config
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\Project SMS.exe
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\Project SMS.pdb
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\Zstandard.Net.dll
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project SMS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project SMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.Addmarks.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.GUI.CreateAccount.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.staffdashboard.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.Homedash.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.GUI.viewnotice.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.Properties.Resources.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.notices.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.RegisterStudents.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.Student_Dashboard.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.Updatestudents.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.Viewprofile.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.viewreports.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project_SMS.TeacherDash.resources
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project SMS.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project SMS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project SMS.csproj.CopyComplete
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project SMS.exe
+C:\Users\user\Desktop\Project BCC SMS\Project SMS\obj\Debug\Project SMS.pdb

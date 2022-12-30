@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{05B342B3-A5C8-4B65-BFA6-7C3A2FE2DE67}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Project_SMS</RootNamespace>
+    <AssemblyName>Project SMS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Docking">
+      <HintPath>H:\Softwares\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Navigator">
+      <HintPath>H:\Softwares\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Navigator.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Ribbon">
+      <HintPath>H:\Softwares\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>H:\Softwares\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Workspace">
+      <HintPath>H:\Softwares\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Workspace.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.24.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\marksClass.cs" />
+    <Compile Include="GUI\CreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\CreateAccount.Designer.cs">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\viewnotice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\viewnotice.Designer.cs">
+      <DependentUpon>viewnotice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\Marks.cs" />
+    <Compile Include="Interfaces\Notice.cs" />
+    <Compile Include="Classes\noticeUDS.cs" />
+    <Compile Include="Classes\Rabstract.cs" />
+    <Compile Include="Classes\registerstudents.cs" />
+    <Compile Include="Interfaces\und.cs" />
+    <Compile Include="Classes\Updatedeletestudent.cs" />
+    <Compile Include="GUI\Addmarks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Addmarks.Designer.cs">
+      <DependentUpon>Addmarks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\DBconnection.cs" />
+    <Compile Include="GUI\staffdashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\staffdashboard.Designer.cs">
+      <DependentUpon>staffdashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Homedash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Homedash.Designer.cs">
+      <DependentUpon>Homedash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\notices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\notices.Designer.cs">
+      <DependentUpon>notices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\RegisterStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\RegisterStudents.Designer.cs">
+      <DependentUpon>RegisterStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Student Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Student Dashboard.Designer.cs">
+      <DependentUpon>Student Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Updatestudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Updatestudents.Designer.cs">
+      <DependentUpon>Updatestudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Viewprofile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Viewprofile.Designer.cs">
+      <DependentUpon>Viewprofile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\viewreports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\viewreports.Designer.cs">
+      <DependentUpon>viewreports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\TeacherDash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\TeacherDash.Designer.cs">
+      <DependentUpon>TeacherDash.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="GUI\Addmarks.resx">
+      <DependentUpon>Addmarks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\CreateAccount.resx">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\staffdashboard.resx">
+      <DependentUpon>staffdashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Homedash.resx">
+      <DependentUpon>Homedash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\viewnotice.resx">
+      <DependentUpon>viewnotice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\notices.resx">
+      <DependentUpon>notices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\RegisterStudents.resx">
+      <DependentUpon>RegisterStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Student Dashboard.resx">
+      <DependentUpon>Student Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Updatestudents.resx">
+      <DependentUpon>Updatestudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Viewprofile.resx">
+      <DependentUpon>Viewprofile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\viewreports.resx">
+      <DependentUpon>viewreports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\TeacherDash.resx">
+      <DependentUpon>TeacherDash.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
